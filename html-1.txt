@@ -1,0 +1,1 @@
+Dit is een tekst met een <a href="https://www.site1.nl/">link</a> naar de website en een <a href="https://www.site2.nl/">tweede link</a> naar een andere website.
